@@ -1,0 +1,17 @@
+{
+    "impostors": 1,
+    "confirm_ejects": 1,
+    "emergency_meetings": 1,
+    "emergency_cooldown": 15,
+    "discussion_time": 60,
+    "voting_time": 60,
+    "kill_cooldown": 20,
+    "common_tasks": 1,
+    "long_tasks": 2,
+    "short_tasks": 1,
+    "anonymous_voting": 0,
+    "task_bar_updates": 2,
+    "sabotage_cooldown": 30,
+    "meltdown_time": 50,
+    "hypoxia_time": 60
+}
