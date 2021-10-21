@@ -23,6 +23,8 @@ ADMIN_ROLE = 'admin'
 
 #
 #   Discord Text Channel names used by bot (probably case sensitive)
+#   !!! BOT WILL DELETE CHANNEL HISTORY. USE A NEW/BLANK CHANNEL !!!
+#   Reccomendation. Have lobby viewable by everyone and the game only viewable to crewmate role
 #
 GAME_CHANNEL = 'game'
 LOBBY_CHANNEL = 'lobby'
