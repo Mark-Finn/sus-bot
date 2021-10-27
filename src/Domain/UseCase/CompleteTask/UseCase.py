@@ -35,6 +35,3 @@ class UseCase:
         self.__game_model_gateway.check_in(game)
         response.success = True
         return response
-
-
-print(re.sub(r'\s\[(\d| -> )*\]$', '', 'Ordered Task Example [3 -> 1 -> 2]'))
